@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "385090809407",
+    "firebase_url": "https://crud-ubuntu1.firebaseio.com",
+    "project_id": "crud-ubuntu1",
+    "storage_bucket": "crud-ubuntu1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385090809407:android:fe97caa5c3c65cc19f128a",
+        "android_client_info": {
+          "package_name": "com.rocode.ifood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385090809407-c0327sg33smu9dllo95nvmkgqlsljt4h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rocode.ifood",
+            "certificate_hash": "c2797075324e6ce67164a9e662f66e5476ea4ac0"
+          }
+        },
+        {
+          "client_id": "385090809407-b1ab76cq24il6so414uoih8e8mvuhee4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbT8FqDyXXHa54_uvD30ltro6txv1RKxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385090809407-b1ab76cq24il6so414uoih8e8mvuhee4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
